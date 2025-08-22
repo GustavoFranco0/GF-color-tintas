@@ -11,3 +11,19 @@ header{
     padding: 20px;
     font-size:32px;
     color:white;
+
+    .logo{
+       padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+    justify-content:center;
+}
+
+.logo-texto{
+     gap: 50px;
+margin-right: 5%;
+}
+
+h8{
+    font-size: 150px;
+}
