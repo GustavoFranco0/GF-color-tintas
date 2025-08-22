@@ -1,13 +1,13 @@
 
 body{
     color:white;
-    background: rgb(15,135,156);
+    background: rgb(6, 36, 41);
     margin:0px;
     font-family: "Anton", sans-serif;
     margin-bottom: 100px;
 }
 header{
-    border-bottom:solid 4px rgb(154, 240, 255);
+    border-bottom:solid 4px rgb(55, 119, 131);
     padding: 20px;
     font-size:32px;
     color:white;
