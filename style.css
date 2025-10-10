@@ -103,12 +103,12 @@ footer {
             text-decoration: underline;
         }
 
-
+/* Estilo da calculadora */
       .container {
-  background: white;
+  background: rgba(39, 32, 32, 0.863);
   padding: 30px;
   border-radius: 15px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 10px rgba(116, 114, 114, 0.1);
   width: 320px;
 }
 
