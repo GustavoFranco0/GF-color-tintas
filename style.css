@@ -152,3 +152,15 @@ button:hover {
   text-align: center;
   color: #333;
 }
+
+h4 {
+  text-align: center;
+  color: #2d3e50;
+  margin-bottom: 20px;
+}
+
+h5 {
+  text-align: center;
+  color: #2d3e50;
+  margin-bottom: 20px;
+}
