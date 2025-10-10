@@ -6,13 +6,15 @@ body {
 }
 
 header {
+  
+  border-radius: 12px;
   text-align: center;
   padding: 40px 20px;
   background: #000000aa;
 }
 
 header h1 {
-  border-radius: 12px;
+  
   font-size: 3rem;
   margin: 0;
   color: #ff9f43;
