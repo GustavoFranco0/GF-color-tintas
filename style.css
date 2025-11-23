@@ -161,3 +161,15 @@ h3{
   font-size:150%;
   color: #7e4e18;
 }
+
+.container{
+       padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+    justify-content:center;
+}
+
+.imagemlogo{
+     gap: 50px;
+margin-right: 5%;
+}
