@@ -174,3 +174,10 @@ h3{
      gap: 50px;
 margin-right: 5%;
 }
+
+h4{
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(116, 114, 114, 0.1);
+  width: 320px;
+}
